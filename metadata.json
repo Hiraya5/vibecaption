@@ -1,0 +1,7 @@
+{
+  "name": "Copy of Copy of VibeCaption",
+  "description": "An intelligent AI-powered image caption generator that creates short, medium, and detailed descriptions for any visual content.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
